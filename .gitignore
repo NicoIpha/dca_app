@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Datos persistidos por la app (estado del usuario, no código fuente)
+data/*.json
+
+# Config local del editor
+.vscode/

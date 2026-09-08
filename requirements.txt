@@ -1,0 +1,7 @@
+streamlit>=1.32
+pandas
+matplotlib
+plotly>=5.20
+yfinance>=0.2.40
+feedparser
+requests
